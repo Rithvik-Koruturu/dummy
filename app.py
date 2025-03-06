@@ -3,7 +3,7 @@ import requests
 import openai  # If you're using OpenAI GPT or another similar model
 
 # Setup your OpenAI or Gemini model API key (adjust depending on the AI model you are using)
-API_KEY = "YOUR_API_KEY"
+API_KEY = "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"
 openai.api_key = API_KEY
 
 # Streamlit app layout
